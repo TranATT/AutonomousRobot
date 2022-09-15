@@ -1,0 +1,8 @@
+prefix=/home/eecs195/Tran_Andy_ws/devel
+
+Name: TurtleBot
+Description: Description of TurtleBot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/eecs195/Tran_Andy_ws/devel
+
+Name: autoturtle
+Description: Description of autoturtle
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
